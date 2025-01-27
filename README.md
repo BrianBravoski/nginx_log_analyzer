@@ -6,3 +6,5 @@ This is a shell script that analyzes a log file provided  by the user and output
 - Top 5 most requested paths
 - Top 5 response status codes
 - Top 5 user agents
+
+https://roadmap.sh/projects/nginx-log-analyser
